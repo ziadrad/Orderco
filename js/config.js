@@ -8,8 +8,8 @@
 
 const CONFIG = {
     // API Base URL
-    API_BASE_URL: 'http://localhost:5000/api',
-    //API_BASE_URL: 'http://orderco.runasp.net/api',
+    //API_BASE_URL: 'http://localhost:5000/api',
+    API_BASE_URL: 'http://orderco.runasp.net/api',
     // Admin Password (for local development only)
     // In production, this should be managed server-side
     ADMIN_PASSWORD: 'admin123',
